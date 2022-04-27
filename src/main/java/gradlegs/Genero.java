@@ -2,7 +2,7 @@ package gradlegs;
 
 public class Genero {
     private int id;
-    public String nome;
+    private String nome;
 
     public int getId() {
         return id;
